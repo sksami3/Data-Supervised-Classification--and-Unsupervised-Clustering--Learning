@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="selected_column" type="xstring" value="attribute_0"/>
+<entry key="is_nominal" type="xboolean" value="true"/>
+<entry key="Fruit_&amp;_Fibre_Dates,Muesli_Raisins" type="xint" value="-13393876"/>
+<entry key="100%_Bran&#9;70&#9;4&#9;1&#9;130&#9;10&#9;5&#9;6&#9;3&#9;280" type="xint" value="-1893860"/>
+<entry key="100%_Natural_Bran&#9;120&#9;3&#9;5&#9;15&#9;2&#9;8&#9;8&#9;3&#9;135" type="xint" value="-5154520"/>
+<entry key="All-Bran&#9;70&#9;4&#9;1&#9;260&#9;9&#9;7&#9;5&#9;3&#9;320" type="xint" value="-9814630"/>
+<entry key="All-Bran_with_Extra_Fiber&#9;50&#9;4&#9;0&#9;140&#9;14&#9;8&#9;0&#9;3&#9;330" type="xint" value="-14714700"/>
+<entry key="Almond_Delight&#9;110&#9;2&#9;2&#9;200&#9;1&#9;14&#9;8&#9;3&#9;-1" type="xint" value="-33024"/>
+<entry key="Apple_Cinnamon_Cheerios&#9;110&#9;2&#9;2&#9;180&#9;1.5&#9;10.5&#9;10&#9;1&#9;70" type="xint" value="-5054582"/>
+<entry key="Apple_Jacks&#9;110&#9;2&#9;0&#9;125&#9;1&#9;11&#9;14&#9;2&#9;30" type="xint" value="-147601"/>
+<entry key="Basic_4&#9;130&#9;3&#9;2&#9;210&#9;2&#9;18&#9;8&#9;3&#9;100" type="xint" value="-288103"/>
+<entry key="Bran_Chex&#9;90&#9;2&#9;1&#9;200&#9;4&#9;15&#9;6&#9;1&#9;125" type="xint" value="-3493162"/>
+<entry key="Bran_Flakes&#9;90&#9;3&#9;0&#9;210&#9;5&#9;13&#9;5&#9;3&#9;190" type="xint" value="-5845277"/>
+<entry key="CapnCrunch&#9;120&#9;1&#9;2&#9;220&#9;0&#9;12&#9;12&#9;2&#9;35" type="xint" value="-103"/>
+<entry key="Cheerios&#9;110&#9;6&#9;2&#9;290&#9;2&#9;17&#9;1&#9;1&#9;105" type="xint" value="-13393876"/>
+<entry key="Cinnamon_Toast_Crunch&#9;120&#9;1&#9;3&#9;210&#9;0&#9;13&#9;9&#9;2&#9;45" type="xint" value="-1893860"/>
+<entry key="Clusters&#9;110&#9;3&#9;2&#9;140&#9;2&#9;13&#9;7&#9;3&#9;105" type="xint" value="-5154520"/>
+<entry key="Cocoa_Puffs&#9;110&#9;1&#9;1&#9;180&#9;0&#9;12&#9;13&#9;2&#9;55" type="xint" value="-9814630"/>
+<entry key="Corn_Chex&#9;110&#9;2&#9;0&#9;280&#9;0&#9;22&#9;3&#9;1&#9;25" type="xint" value="-14714700"/>
+<entry key="Corn_Flakes&#9;100&#9;2&#9;0&#9;290&#9;1&#9;21&#9;2&#9;1&#9;35" type="xint" value="-33024"/>
+<entry key="Corn_Pops&#9;110&#9;1&#9;0&#9;90&#9;1&#9;13&#9;12&#9;2&#9;20" type="xint" value="-5054582"/>
+<entry key="Count_Chocula&#9;110&#9;1&#9;1&#9;180&#9;0&#9;12&#9;13&#9;2&#9;65" type="xint" value="-147601"/>
+<entry key="Cracklin_Oat_Bran&#9;110&#9;3&#9;3&#9;140&#9;4&#9;10&#9;7&#9;3&#9;160,Cream_of_Wheat_(Quick)&#9;100&#9;3&#9;0&#9;80&#9;1&#9;21&#9;0&#9;2&#9;-1,Crispix&#9;110&#9;2&#9;0&#9;220&#9;1&#9;21&#9;3&#9;3&#9;30,Crispy_Wheat_&amp;_Raisins&#9;100&#9;2&#9;1&#9;140&#9;2&#9;11&#9;10&#9;3&#9;120,Double_Chex&#9;100&#9;2&#9;0&#9;190&#9;1&#9;18&#9;5&#9;3&#9;80,Froot_Loops&#9;110&#9;2&#9;1&#9;125&#9;1&#9;11&#9;13&#9;2&#9;30,Frosted_Flakes&#9;110&#9;1&#9;0&#9;200&#9;1&#9;14&#9;11&#9;1&#9;25,Frosted_Mini-Wheats&#9;100&#9;3&#9;0&#9;0&#9;3&#9;14&#9;7&#9;2&#9;100,Fruitful_Bran&#9;120&#9;3&#9;0&#9;240&#9;5&#9;14&#9;12&#9;3&#9;190,Fruity_Pebbles&#9;110&#9;1&#9;1&#9;135&#9;0&#9;13&#9;12&#9;2&#9;25,Golden_Crisp&#9;100&#9;2&#9;0&#9;45&#9;0&#9;11&#9;15&#9;1&#9;40,Golden_Grahams&#9;110&#9;1&#9;1&#9;280&#9;0&#9;15&#9;9&#9;2&#9;45,Grape-Nuts&#9;110&#9;3&#9;0&#9;170&#9;3&#9;17&#9;3&#9;3&#9;90,Grape_Nuts_Flakes&#9;100&#9;3&#9;1&#9;140&#9;3&#9;15&#9;5&#9;3&#9;85,Great_Grains_Pecan&#9;120&#9;3&#9;3&#9;75&#9;3&#9;13&#9;4&#9;3&#9;100,Honey-comb&#9;110&#9;1&#9;0&#9;180&#9;0&#9;14&#9;11&#9;1&#9;35,Honey_Graham_Ohs&#9;120&#9;1&#9;2&#9;220&#9;1&#9;12&#9;11&#9;2&#9;45,Honey_Nut_Cheerios&#9;110&#9;3&#9;1&#9;250&#9;1.5&#9;11.5&#9;10&#9;1&#9;90,Just_Right_Crunchy__Nuggets&#9;110&#9;2&#9;1&#9;170&#9;1&#9;17&#9;6&#9;3&#9;60,Just_Right_Fruit_&amp;_Nut&#9;140&#9;3&#9;1&#9;170&#9;2&#9;20&#9;9&#9;3&#9;95,Kix&#9;110&#9;2&#9;1&#9;260&#9;0&#9;21&#9;3&#9;2&#9;40,Life&#9;100&#9;4&#9;2&#9;150&#9;2&#9;12&#9;6&#9;2&#9;95,Lucky_Charms&#9;110&#9;2&#9;1&#9;180&#9;0&#9;12&#9;12&#9;2&#9;55,Maypo&#9;100&#9;4&#9;1&#9;0&#9;0&#9;16&#9;3&#9;2&#9;95,Mueslix_Crispy_Blend&#9;160&#9;3&#9;2&#9;150&#9;3&#9;17&#9;13&#9;3&#9;160,Multi-Grain_Cheerios&#9;100&#9;2&#9;1&#9;220&#9;2&#9;15&#9;6&#9;1&#9;90,Nut&amp;Honey_Crunch&#9;120&#9;2&#9;1&#9;190&#9;0&#9;15&#9;9&#9;2&#9;40,Nutri-Grain_Almond-Raisin&#9;140&#9;3&#9;2&#9;220&#9;3&#9;21&#9;7&#9;3&#9;130,Nutri-grain_Wheat&#9;90&#9;3&#9;0&#9;170&#9;3&#9;18&#9;2&#9;3&#9;90,Oatmeal_Raisin_Crisp&#9;130&#9;3&#9;2&#9;170&#9;1.5&#9;13.5&#9;10&#9;3&#9;120,Post_Nat._Raisin_Bran&#9;120&#9;3&#9;1&#9;200&#9;6&#9;11&#9;14&#9;3&#9;260,Product_19&#9;100&#9;3&#9;0&#9;320&#9;1&#9;20&#9;3&#9;3&#9;45,Puffed_Rice&#9;50&#9;1&#9;0&#9;0&#9;0&#9;13&#9;0&#9;3&#9;15,Puffed_Wheat&#9;50&#9;2&#9;0&#9;0&#9;1&#9;10&#9;0&#9;3&#9;50,Quaker_Oat_Squares&#9;100&#9;4&#9;1&#9;135&#9;2&#9;14&#9;6&#9;3&#9;110,Quaker_Oatmeal&#9;100&#9;5&#9;2&#9;0&#9;2.7&#9;-1&#9;-1&#9;1&#9;110,Raisin_Bran&#9;120&#9;3&#9;1&#9;210&#9;5&#9;14&#9;12&#9;2&#9;240,Raisin_Nut_Bran&#9;100&#9;3&#9;2&#9;140&#9;2.5&#9;10.5&#9;8&#9;3&#9;140,Raisin_Squares&#9;90&#9;2&#9;0&#9;0&#9;2&#9;15&#9;6&#9;3&#9;110,Rice_Chex&#9;110&#9;1&#9;0&#9;240&#9;0&#9;23&#9;2&#9;1&#9;30,Rice_Krispies&#9;110&#9;2&#9;0&#9;290&#9;0&#9;22&#9;3&#9;1&#9;35,Shredded_Wheat&#9;80&#9;2&#9;0&#9;0&#9;3&#9;16&#9;0&#9;1&#9;95,Shredded_Wheat_nBran&#9;90&#9;3&#9;0&#9;0&#9;4&#9;19&#9;0&#9;1&#9;140,Shredded_Wheat_spoon_size&#9;90&#9;3&#9;0&#9;0&#9;3&#9;20&#9;0&#9;1&#9;120,Smacks&#9;110&#9;2&#9;1&#9;70&#9;1&#9;9&#9;15&#9;2&#9;40,Special_K&#9;110&#9;6&#9;0&#9;230&#9;1&#9;16&#9;3&#9;1&#9;55,Strawberry_Fruit_Wheats&#9;90&#9;2&#9;0&#9;15&#9;3&#9;15&#9;5&#9;2&#9;90,Total_Corn_Flakes&#9;110&#9;2&#9;1&#9;200&#9;0&#9;21&#9;3&#9;3&#9;35,Total_Raisin_Bran&#9;140&#9;3&#9;1&#9;190&#9;4&#9;15&#9;14&#9;3&#9;230,Total_Whole_Grain&#9;100&#9;3&#9;1&#9;200&#9;3&#9;16&#9;3&#9;3&#9;110,Triples&#9;110&#9;2&#9;1&#9;250&#9;0&#9;21&#9;3&#9;3&#9;60,Trix&#9;110&#9;1&#9;1&#9;140&#9;0&#9;13&#9;12&#9;2&#9;25,Wheat_Chex&#9;100&#9;3&#9;1&#9;230&#9;3&#9;17&#9;3&#9;1&#9;115,Wheaties&#9;100&#9;3&#9;1&#9;200&#9;3&#9;17&#9;3&#9;1&#9;110,Wheaties_Honey_Gold&#9;110&#9;2&#9;1&#9;200&#9;1&#9;16&#9;8&#9;1&#9;60,cereal name &#9;calories &#9;protein(g)&#9;fat(g)&#9;sodium(mg)&#9;dietary fiber(g)&#9;complex carbohydrates(g)&#9;sugars(g)&#9;display shelf &#9;potassium(mg)" type="xint" value="-288103"/>
+<entry key="cereal name &#9;calories &#9;protein(g)&#9;fat(g)&#9;sodium(mg)&#9;dietary fiber(g)&#9;complex carbohydrates(g)&#9;sugars(g)&#9;display shelf &#9;potassium(mg)" type="xint" value="-3493162"/>
+<entry key="100" type="xint" value="-5845277"/>
+<entry key="100%_Bran&#9;70&#9;4&#9;1&#9;130&#9;10&#9;5&#9;6&#9;280&#9;25&#9;3&#9;68.402973" type="xint" value="-103"/>
+<entry key="100%_Natural_Bran&#9;120&#9;3&#9;5&#9;15&#9;2&#9;8&#9;8&#9;135&#9;0&#9;3&#9;33.983679" type="xint" value="-13393876"/>
+<entry key="All-Bran&#9;70&#9;4&#9;1&#9;260&#9;9&#9;7&#9;5&#9;320&#9;25&#9;3&#9;59.425505" type="xint" value="-1893860"/>
+<entry key="All-Bran_with_Extra_Fiber&#9;50&#9;4&#9;0&#9;140&#9;14&#9;8&#9;0&#9;330&#9;25&#9;3&#9;93.704912" type="xint" value="-5154520"/>
+<entry key="Almond_Delight&#9;110&#9;2&#9;2&#9;200&#9;1&#9;14&#9;8&#9;&#9;25&#9;3&#9;34.384843" type="xint" value="-9814630"/>
+<entry key="Apple_Cinnamon_Cheerios&#9;110&#9;2&#9;2&#9;180&#9;1.5&#9;10.5&#9;10&#9;70&#9;25&#9;1&#9;29.509541" type="xint" value="-14714700"/>
+<entry key="Apple_Jacks&#9;110&#9;2&#9;0&#9;125&#9;1&#9;11&#9;14&#9;30&#9;25&#9;2&#9;33.174094" type="xint" value="-33024"/>
+<entry key="Basic_4&#9;130&#9;3&#9;2&#9;210&#9;2&#9;18&#9;8&#9;100&#9;25&#9;3&#9;37.038562" type="xint" value="-5054582"/>
+<entry key="Bran_Chex&#9;90&#9;2&#9;1&#9;200&#9;4&#9;15&#9;6&#9;125&#9;25&#9;1&#9;49.120253" type="xint" value="-147601"/>
+<entry key="Bran_Flakes&#9;90&#9;3&#9;0&#9;210&#9;5&#9;13&#9;5&#9;190&#9;25&#9;3&#9;53.313813" type="xint" value="-288103"/>
+<entry key="CapnCrunch&#9;120&#9;1&#9;2&#9;220&#9;0&#9;12&#9;12&#9;35&#9;25&#9;2&#9;18.042851" type="xint" value="-3493162"/>
+<entry key="Cereals&#9;calories&#9;protein&#9;fat&#9;sodium&#9;fiber&#9;carbo&#9;sugars&#9;potass&#9;vitamins&#9;shelf&#9;rating" type="xint" value="-5845277"/>
+<entry key="Cheerios&#9;110&#9;6&#9;2&#9;290&#9;2&#9;17&#9;1&#9;105&#9;25&#9;1&#9;50.764999" type="xint" value="-103"/>
+<entry key="Cinnamon_Toast_Crunch&#9;120&#9;1&#9;3&#9;210&#9;0&#9;13&#9;9&#9;45&#9;25&#9;2&#9;19.823573" type="xint" value="-13393876"/>
+<entry key="Clusters&#9;110&#9;3&#9;2&#9;140&#9;2&#9;13&#9;7&#9;105&#9;25&#9;3&#9;40.400208" type="xint" value="-1893860"/>
+<entry key="Cocoa_Puffs&#9;110&#9;1&#9;1&#9;180&#9;0&#9;12&#9;13&#9;55&#9;25&#9;2&#9;22.736446" type="xint" value="-5154520"/>
+<entry key="Corn_Chex&#9;110&#9;2&#9;0&#9;280&#9;0&#9;22&#9;3&#9;25&#9;25&#9;1&#9;41.445019" type="xint" value="-9814630"/>
+<entry key="Corn_Flakes&#9;100&#9;2&#9;0&#9;290&#9;1&#9;21&#9;2&#9;35&#9;25&#9;1&#9;45.863324" type="xint" value="-14714700"/>
+<entry key="Corn_Pops&#9;110&#9;1&#9;0&#9;90&#9;1&#9;13&#9;12&#9;20&#9;25&#9;2&#9;35.782791" type="xint" value="-33024"/>
+<entry key="Count_Chocula&#9;110&#9;1&#9;1&#9;180&#9;0&#9;12&#9;13&#9;65&#9;25&#9;2&#9;22.396513" type="xint" value="-5054582"/>
+<entry key="Cracklin_Oat_Bran&#9;110&#9;3&#9;3&#9;140&#9;4&#9;10&#9;7&#9;160&#9;25&#9;3&#9;40.448772,Cream_of_Wheat_(Quick)&#9;100&#9;3&#9;0&#9;80&#9;1&#9;21&#9;0&#9;&#9;0&#9;2&#9;64.533816,Crispix&#9;110&#9;2&#9;0&#9;220&#9;1&#9;21&#9;3&#9;30&#9;25&#9;3&#9;46.895644,Crispy_Wheat_&amp;_Raisins&#9;100&#9;2&#9;1&#9;140&#9;2&#9;11&#9;10&#9;120&#9;25&#9;3&#9;36.176196,Double_Chex&#9;100&#9;2&#9;0&#9;190&#9;1&#9;18&#9;5&#9;80&#9;25&#9;3&#9;44.330856,Froot_Loops&#9;110&#9;2&#9;1&#9;125&#9;1&#9;11&#9;13&#9;30&#9;25&#9;2&#9;32.207582,Frosted_Flakes&#9;110&#9;1&#9;0&#9;200&#9;1&#9;14&#9;11&#9;25&#9;25&#9;1&#9;31.435973,Frosted_Mini-Wheats&#9;100&#9;3&#9;0&#9;0&#9;3&#9;14&#9;7&#9;100&#9;25&#9;2&#9;58.345141,Fruitful_Bran&#9;120&#9;3&#9;0&#9;240&#9;5&#9;14&#9;12&#9;190&#9;25&#9;3&#9;41.015492,Fruity_Pebbles&#9;110&#9;1&#9;1&#9;135&#9;0&#9;13&#9;12&#9;25&#9;25&#9;2&#9;28.025765,Golden_Crisp&#9;100&#9;2&#9;0&#9;45&#9;0&#9;11&#9;15&#9;40&#9;25&#9;1&#9;35.252444,Golden_Grahams&#9;110&#9;1&#9;1&#9;280&#9;0&#9;15&#9;9&#9;45&#9;25&#9;2&#9;23.804043,Grape-Nuts&#9;110&#9;3&#9;0&#9;170&#9;3&#9;17&#9;3&#9;90&#9;25&#9;3&#9;53.371007,Grape_Nuts_Flakes&#9;100&#9;3&#9;1&#9;140&#9;3&#9;15&#9;5&#9;85&#9;25&#9;3&#9;52.076897,Great_Grains_Pecan&#9;120&#9;3&#9;3&#9;75&#9;3&#9;13&#9;4&#9;100&#9;25&#9;3&#9;45.811716,Honey-comb&#9;110&#9;1&#9;0&#9;180&#9;0&#9;14&#9;11&#9;35&#9;25&#9;1&#9;28.742414,Honey_Graham_Ohs&#9;120&#9;1&#9;2&#9;220&#9;1&#9;12&#9;11&#9;45&#9;25&#9;2&#9;21.871292,Honey_Nut_Cheerios&#9;110&#9;3&#9;1&#9;250&#9;1.5&#9;11.5&#9;10&#9;90&#9;25&#9;1&#9;31.072217,Just_Right_Crunchy__Nuggets&#9;110&#9;2&#9;1&#9;170&#9;1&#9;17&#9;6&#9;60&#9;100&#9;3&#9;36.523683,Just_Right_Fruit_&amp;_Nut&#9;140&#9;3&#9;1&#9;170&#9;2&#9;20&#9;9&#9;95&#9;100&#9;3&#9;36.471512,Kix&#9;110&#9;2&#9;1&#9;260&#9;0&#9;21&#9;3&#9;40&#9;25&#9;2&#9;39.241114,Life&#9;100&#9;4&#9;2&#9;150&#9;2&#9;12&#9;6&#9;95&#9;25&#9;2&#9;45.328074,Lucky_Charms&#9;110&#9;2&#9;1&#9;180&#9;0&#9;12&#9;12&#9;55&#9;25&#9;2&#9;26.734515,Maypo&#9;100&#9;4&#9;1&#9;0&#9;0&#9;16&#9;3&#9;95&#9;25&#9;2&#9;54.850917,Mueslix_Crispy_Blend&#9;160&#9;3&#9;2&#9;150&#9;3&#9;17&#9;13&#9;160&#9;25&#9;3&#9;30.313351,Multi-Grain_Cheerios&#9;100&#9;2&#9;1&#9;220&#9;2&#9;15&#9;6&#9;90&#9;25&#9;1&#9;40.105965,Nut&amp;Honey_Crunch&#9;120&#9;2&#9;1&#9;190&#9;0&#9;15&#9;9&#9;40&#9;25&#9;2&#9;29.924285,Nutri-Grain_Almond-Raisin&#9;140&#9;3&#9;2&#9;220&#9;3&#9;21&#9;7&#9;130&#9;25&#9;3&#9;40.69232,Nutri-grain_Wheat&#9;90&#9;3&#9;0&#9;170&#9;3&#9;18&#9;2&#9;90&#9;25&#9;3&#9;59.642837,Oatmeal_Raisin_Crisp&#9;130&#9;3&#9;2&#9;170&#9;1.5&#9;13.5&#9;10&#9;120&#9;25&#9;3&#9;30.450843,Post_Nat._Raisin_Bran&#9;120&#9;3&#9;1&#9;200&#9;6&#9;11&#9;14&#9;260&#9;25&#9;3&#9;37.840594,Product_19&#9;100&#9;3&#9;0&#9;320&#9;1&#9;20&#9;3&#9;45&#9;100&#9;3&#9;41.50354,Puffed_Rice&#9;50&#9;1&#9;0&#9;0&#9;0&#9;13&#9;0&#9;15&#9;0&#9;3&#9;60.756112,Puffed_Wheat&#9;50&#9;2&#9;0&#9;0&#9;1&#9;10&#9;0&#9;50&#9;0&#9;3&#9;63.005645,Quaker_Oat_Squares&#9;100&#9;4&#9;1&#9;135&#9;2&#9;14&#9;6&#9;110&#9;25&#9;3&#9;49.511874,Quaker_Oatmeal&#9;100&#9;5&#9;2&#9;0&#9;2.7&#9;-1&#9;-1&#9;110&#9;0&#9;1&#9;50.828392,Raisin_Bran&#9;120&#9;3&#9;1&#9;210&#9;5&#9;14&#9;12&#9;240&#9;25&#9;2&#9;39.259197,Raisin_Nut_Bran&#9;100&#9;3&#9;2&#9;140&#9;2.5&#9;10.5&#9;8&#9;140&#9;25&#9;3&#9;39.7034,Raisin_Squares&#9;90&#9;2&#9;0&#9;0&#9;2&#9;15&#9;6&#9;110&#9;25&#9;3&#9;55.333142,Rice_Chex&#9;110&#9;1&#9;0&#9;240&#9;0&#9;23&#9;2&#9;30&#9;25&#9;1&#9;41.998933,Rice_Krispies&#9;110&#9;2&#9;0&#9;290&#9;0&#9;22&#9;3&#9;35&#9;25&#9;1&#9;40.560159,Shredded_Wheat&#9;80&#9;2&#9;0&#9;0&#9;3&#9;16&#9;0&#9;95&#9;0&#9;1&#9;68.235885,Shredded_Wheat_nBran&#9;90&#9;3&#9;0&#9;0&#9;4&#9;19&#9;0&#9;140&#9;0&#9;1&#9;74.472949,Shredded_Wheat_spoon_size&#9;90&#9;3&#9;0&#9;0&#9;3&#9;20&#9;0&#9;120&#9;0&#9;1&#9;72.801787,Smacks&#9;110&#9;2&#9;1&#9;70&#9;1&#9;9&#9;15&#9;40&#9;25&#9;2&#9;31.230054,Special_K&#9;110&#9;6&#9;0&#9;230&#9;1&#9;16&#9;3&#9;55&#9;25&#9;1&#9;53.131324,Strawberry_Fruit_Wheats&#9;90&#9;2&#9;0&#9;15&#9;3&#9;15&#9;5&#9;90&#9;25&#9;2&#9;59.363993,Total_Corn_Flakes&#9;110&#9;2&#9;1&#9;200&#9;0&#9;21&#9;3&#9;35&#9;100&#9;3&#9;38.839746,Total_Raisin_Bran&#9;140&#9;3&#9;1&#9;190&#9;4&#9;15&#9;14&#9;230&#9;100&#9;3&#9;28.592785,Total_Whole_Grain&#9;100&#9;3&#9;1&#9;200&#9;3&#9;16&#9;3&#9;110&#9;100&#9;3&#9;46.658844,Triples&#9;110&#9;2&#9;1&#9;250&#9;0&#9;21&#9;3&#9;60&#9;25&#9;3&#9;39.106174,Trix&#9;110&#9;1&#9;1&#9;140&#9;0&#9;13&#9;12&#9;25&#9;25&#9;2&#9;27.753301,Wheat_Chex&#9;100&#9;3&#9;1&#9;230&#9;3&#9;17&#9;3&#9;115&#9;25&#9;1&#9;49.787445,Wheaties&#9;100&#9;3&#9;1&#9;200&#9;3&#9;17&#9;3&#9;110&#9;25&#9;1&#9;51.592193,Wheaties_Honey_Gold&#9;110&#9;2&#9;1&#9;200&#9;1&#9;16&#9;8&#9;60&#9;25&#9;1&#9;36.187559" type="xint" value="-147601"/>
+<config key="values">
+<entry key="array-size" type="xint" value="44"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Fruit_&amp;_Fibre_Dates,Muesli_Raisins"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="100%_Bran%%0000970%%000094%%000091%%00009130%%0000910%%000095%%000096%%000093%%00009280"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="100%_Natural_Bran%%00009120%%000093%%000095%%0000915%%000092%%000098%%000098%%000093%%00009135"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="All-Bran%%0000970%%000094%%000091%%00009260%%000099%%000097%%000095%%000093%%00009320"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="All-Bran_with_Extra_Fiber%%0000950%%000094%%000090%%00009140%%0000914%%000098%%000090%%000093%%00009330"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Almond_Delight%%00009110%%000092%%000092%%00009200%%000091%%0000914%%000098%%000093%%00009-1"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Apple_Cinnamon_Cheerios%%00009110%%000092%%000092%%00009180%%000091.5%%0000910.5%%0000910%%000091%%0000970"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Apple_Jacks%%00009110%%000092%%000090%%00009125%%000091%%0000911%%0000914%%000092%%0000930"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Basic_4%%00009130%%000093%%000092%%00009210%%000092%%0000918%%000098%%000093%%00009100"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Bran_Chex%%0000990%%000092%%000091%%00009200%%000094%%0000915%%000096%%000091%%00009125"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Bran_Flakes%%0000990%%000093%%000090%%00009210%%000095%%0000913%%000095%%000093%%00009190"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="CapnCrunch%%00009120%%000091%%000092%%00009220%%000090%%0000912%%0000912%%000092%%0000935"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cheerios%%00009110%%000096%%000092%%00009290%%000092%%0000917%%000091%%000091%%00009105"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cinnamon_Toast_Crunch%%00009120%%000091%%000093%%00009210%%000090%%0000913%%000099%%000092%%0000945"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Clusters%%00009110%%000093%%000092%%00009140%%000092%%0000913%%000097%%000093%%00009105"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cocoa_Puffs%%00009110%%000091%%000091%%00009180%%000090%%0000912%%0000913%%000092%%0000955"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Corn_Chex%%00009110%%000092%%000090%%00009280%%000090%%0000922%%000093%%000091%%0000925"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Corn_Flakes%%00009100%%000092%%000090%%00009290%%000091%%0000921%%000092%%000091%%0000935"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Corn_Pops%%00009110%%000091%%000090%%0000990%%000091%%0000913%%0000912%%000092%%0000920"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Count_Chocula%%00009110%%000091%%000091%%00009180%%000090%%0000912%%0000913%%000092%%0000965"/>
+</config>
+</config>
+<config key="20">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cracklin_Oat_Bran%%00009110%%000093%%000093%%00009140%%000094%%0000910%%000097%%000093%%00009160,Cream_of_Wheat_(Quick)%%00009100%%000093%%000090%%0000980%%000091%%0000921%%000090%%000092%%00009-1,Crispix%%00009110%%000092%%000090%%00009220%%000091%%0000921%%000093%%000093%%0000930,Crispy_Wheat_&amp;_Raisins%%00009100%%000092%%000091%%00009140%%000092%%0000911%%0000910%%000093%%00009120,Double_Chex%%00009100%%000092%%000090%%00009190%%000091%%0000918%%000095%%000093%%0000980,Froot_Loops%%00009110%%000092%%000091%%00009125%%000091%%0000911%%0000913%%000092%%0000930,Frosted_Flakes%%00009110%%000091%%000090%%00009200%%000091%%0000914%%0000911%%000091%%0000925,Frosted_Mini-Wheats%%00009100%%000093%%000090%%000090%%000093%%0000914%%000097%%000092%%00009100,Fruitful_Bran%%00009120%%000093%%000090%%00009240%%000095%%0000914%%0000912%%000093%%00009190,Fruity_Pebbles%%00009110%%000091%%000091%%00009135%%000090%%0000913%%0000912%%000092%%0000925,Golden_Crisp%%00009100%%000092%%000090%%0000945%%000090%%0000911%%0000915%%000091%%0000940,Golden_Grahams%%00009110%%000091%%000091%%00009280%%000090%%0000915%%000099%%000092%%0000945,Grape-Nuts%%00009110%%000093%%000090%%00009170%%000093%%0000917%%000093%%000093%%0000990,Grape_Nuts_Flakes%%00009100%%000093%%000091%%00009140%%000093%%0000915%%000095%%000093%%0000985,Great_Grains_Pecan%%00009120%%000093%%000093%%0000975%%000093%%0000913%%000094%%000093%%00009100,Honey-comb%%00009110%%000091%%000090%%00009180%%000090%%0000914%%0000911%%000091%%0000935,Honey_Graham_Ohs%%00009120%%000091%%000092%%00009220%%000091%%0000912%%0000911%%000092%%0000945,Honey_Nut_Cheerios%%00009110%%000093%%000091%%00009250%%000091.5%%0000911.5%%0000910%%000091%%0000990,Just_Right_Crunchy__Nuggets%%00009110%%000092%%000091%%00009170%%000091%%0000917%%000096%%000093%%0000960,Just_Right_Fruit_&amp;_Nut%%00009140%%000093%%000091%%00009170%%000092%%0000920%%000099%%000093%%0000995,Kix%%00009110%%000092%%000091%%00009260%%000090%%0000921%%000093%%000092%%0000940,Life%%00009100%%000094%%000092%%00009150%%000092%%0000912%%000096%%000092%%0000995,Lucky_Charms%%00009110%%000092%%000091%%00009180%%000090%%0000912%%0000912%%000092%%0000955,Maypo%%00009100%%000094%%000091%%000090%%000090%%0000916%%000093%%000092%%0000995,Mueslix_Crispy_Blend%%00009160%%000093%%000092%%00009150%%000093%%0000917%%0000913%%000093%%00009160,Multi-Grain_Cheerios%%00009100%%000092%%000091%%00009220%%000092%%0000915%%000096%%000091%%0000990,Nut&amp;Honey_Crunch%%00009120%%000092%%000091%%00009190%%000090%%0000915%%000099%%000092%%0000940,Nutri-Grain_Almond-Raisin%%00009140%%000093%%000092%%00009220%%000093%%0000921%%000097%%000093%%00009130,Nutri-grain_Wheat%%0000990%%000093%%000090%%00009170%%000093%%0000918%%000092%%000093%%0000990,Oatmeal_Raisin_Crisp%%00009130%%000093%%000092%%00009170%%000091.5%%0000913.5%%0000910%%000093%%00009120,Post_Nat._Raisin_Bran%%00009120%%000093%%000091%%00009200%%000096%%0000911%%0000914%%000093%%00009260,Product_19%%00009100%%000093%%000090%%00009320%%000091%%0000920%%000093%%000093%%0000945,Puffed_Rice%%0000950%%000091%%000090%%000090%%000090%%0000913%%000090%%000093%%0000915,Puffed_Wheat%%0000950%%000092%%000090%%000090%%000091%%0000910%%000090%%000093%%0000950,Quaker_Oat_Squares%%00009100%%000094%%000091%%00009135%%000092%%0000914%%000096%%000093%%00009110,Quaker_Oatmeal%%00009100%%000095%%000092%%000090%%000092.7%%00009-1%%00009-1%%000091%%00009110,Raisin_Bran%%00009120%%000093%%000091%%00009210%%000095%%0000914%%0000912%%000092%%00009240,Raisin_Nut_Bran%%00009100%%000093%%000092%%00009140%%000092.5%%0000910.5%%000098%%000093%%00009140,Raisin_Squares%%0000990%%000092%%000090%%000090%%000092%%0000915%%000096%%000093%%00009110,Rice_Chex%%00009110%%000091%%000090%%00009240%%000090%%0000923%%000092%%000091%%0000930,Rice_Krispies%%00009110%%000092%%000090%%00009290%%000090%%0000922%%000093%%000091%%0000935,Shredded_Wheat%%0000980%%000092%%000090%%000090%%000093%%0000916%%000090%%000091%%0000995,Shredded_Wheat_nBran%%0000990%%000093%%000090%%000090%%000094%%0000919%%000090%%000091%%00009140,Shredded_Wheat_spoon_size%%0000990%%000093%%000090%%000090%%000093%%0000920%%000090%%000091%%00009120,Smacks%%00009110%%000092%%000091%%0000970%%000091%%000099%%0000915%%000092%%0000940,Special_K%%00009110%%000096%%000090%%00009230%%000091%%0000916%%000093%%000091%%0000955,Strawberry_Fruit_Wheats%%0000990%%000092%%000090%%0000915%%000093%%0000915%%000095%%000092%%0000990,Total_Corn_Flakes%%00009110%%000092%%000091%%00009200%%000090%%0000921%%000093%%000093%%0000935,Total_Raisin_Bran%%00009140%%000093%%000091%%00009190%%000094%%0000915%%0000914%%000093%%00009230,Total_Whole_Grain%%00009100%%000093%%000091%%00009200%%000093%%0000916%%000093%%000093%%00009110,Triples%%00009110%%000092%%000091%%00009250%%000090%%0000921%%000093%%000093%%0000960,Trix%%00009110%%000091%%000091%%00009140%%000090%%0000913%%0000912%%000092%%0000925,Wheat_Chex%%00009100%%000093%%000091%%00009230%%000093%%0000917%%000093%%000091%%00009115,Wheaties%%00009100%%000093%%000091%%00009200%%000093%%0000917%%000093%%000091%%00009110,Wheaties_Honey_Gold%%00009110%%000092%%000091%%00009200%%000091%%0000916%%000098%%000091%%0000960,cereal name %%00009calories %%00009protein(g)%%00009fat(g)%%00009sodium(mg)%%00009dietary fiber(g)%%00009complex carbohydrates(g)%%00009sugars(g)%%00009display shelf %%00009potassium(mg)"/>
+</config>
+</config>
+<config key="21">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="cereal name %%00009calories %%00009protein(g)%%00009fat(g)%%00009sodium(mg)%%00009dietary fiber(g)%%00009complex carbohydrates(g)%%00009sugars(g)%%00009display shelf %%00009potassium(mg)"/>
+</config>
+</config>
+<config key="22">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="100"/>
+</config>
+</config>
+<config key="23">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="100%_Bran%%0000970%%000094%%000091%%00009130%%0000910%%000095%%000096%%00009280%%0000925%%000093%%0000968.402973"/>
+</config>
+</config>
+<config key="24">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="100%_Natural_Bran%%00009120%%000093%%000095%%0000915%%000092%%000098%%000098%%00009135%%000090%%000093%%0000933.983679"/>
+</config>
+</config>
+<config key="25">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="All-Bran%%0000970%%000094%%000091%%00009260%%000099%%000097%%000095%%00009320%%0000925%%000093%%0000959.425505"/>
+</config>
+</config>
+<config key="26">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="All-Bran_with_Extra_Fiber%%0000950%%000094%%000090%%00009140%%0000914%%000098%%000090%%00009330%%0000925%%000093%%0000993.704912"/>
+</config>
+</config>
+<config key="27">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Almond_Delight%%00009110%%000092%%000092%%00009200%%000091%%0000914%%000098%%00009%%0000925%%000093%%0000934.384843"/>
+</config>
+</config>
+<config key="28">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Apple_Cinnamon_Cheerios%%00009110%%000092%%000092%%00009180%%000091.5%%0000910.5%%0000910%%0000970%%0000925%%000091%%0000929.509541"/>
+</config>
+</config>
+<config key="29">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Apple_Jacks%%00009110%%000092%%000090%%00009125%%000091%%0000911%%0000914%%0000930%%0000925%%000092%%0000933.174094"/>
+</config>
+</config>
+<config key="30">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Basic_4%%00009130%%000093%%000092%%00009210%%000092%%0000918%%000098%%00009100%%0000925%%000093%%0000937.038562"/>
+</config>
+</config>
+<config key="31">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Bran_Chex%%0000990%%000092%%000091%%00009200%%000094%%0000915%%000096%%00009125%%0000925%%000091%%0000949.120253"/>
+</config>
+</config>
+<config key="32">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Bran_Flakes%%0000990%%000093%%000090%%00009210%%000095%%0000913%%000095%%00009190%%0000925%%000093%%0000953.313813"/>
+</config>
+</config>
+<config key="33">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="CapnCrunch%%00009120%%000091%%000092%%00009220%%000090%%0000912%%0000912%%0000935%%0000925%%000092%%0000918.042851"/>
+</config>
+</config>
+<config key="34">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cereals%%00009calories%%00009protein%%00009fat%%00009sodium%%00009fiber%%00009carbo%%00009sugars%%00009potass%%00009vitamins%%00009shelf%%00009rating"/>
+</config>
+</config>
+<config key="35">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cheerios%%00009110%%000096%%000092%%00009290%%000092%%0000917%%000091%%00009105%%0000925%%000091%%0000950.764999"/>
+</config>
+</config>
+<config key="36">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cinnamon_Toast_Crunch%%00009120%%000091%%000093%%00009210%%000090%%0000913%%000099%%0000945%%0000925%%000092%%0000919.823573"/>
+</config>
+</config>
+<config key="37">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Clusters%%00009110%%000093%%000092%%00009140%%000092%%0000913%%000097%%00009105%%0000925%%000093%%0000940.400208"/>
+</config>
+</config>
+<config key="38">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cocoa_Puffs%%00009110%%000091%%000091%%00009180%%000090%%0000912%%0000913%%0000955%%0000925%%000092%%0000922.736446"/>
+</config>
+</config>
+<config key="39">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Corn_Chex%%00009110%%000092%%000090%%00009280%%000090%%0000922%%000093%%0000925%%0000925%%000091%%0000941.445019"/>
+</config>
+</config>
+<config key="40">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Corn_Flakes%%00009100%%000092%%000090%%00009290%%000091%%0000921%%000092%%0000935%%0000925%%000091%%0000945.863324"/>
+</config>
+</config>
+<config key="41">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Corn_Pops%%00009110%%000091%%000090%%0000990%%000091%%0000913%%0000912%%0000920%%0000925%%000092%%0000935.782791"/>
+</config>
+</config>
+<config key="42">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Count_Chocula%%00009110%%000091%%000091%%00009180%%000090%%0000912%%0000913%%0000965%%0000925%%000092%%0000922.396513"/>
+</config>
+</config>
+<config key="43">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Cracklin_Oat_Bran%%00009110%%000093%%000093%%00009140%%000094%%0000910%%000097%%00009160%%0000925%%000093%%0000940.448772,Cream_of_Wheat_(Quick)%%00009100%%000093%%000090%%0000980%%000091%%0000921%%000090%%00009%%000090%%000092%%0000964.533816,Crispix%%00009110%%000092%%000090%%00009220%%000091%%0000921%%000093%%0000930%%0000925%%000093%%0000946.895644,Crispy_Wheat_&amp;_Raisins%%00009100%%000092%%000091%%00009140%%000092%%0000911%%0000910%%00009120%%0000925%%000093%%0000936.176196,Double_Chex%%00009100%%000092%%000090%%00009190%%000091%%0000918%%000095%%0000980%%0000925%%000093%%0000944.330856,Froot_Loops%%00009110%%000092%%000091%%00009125%%000091%%0000911%%0000913%%0000930%%0000925%%000092%%0000932.207582,Frosted_Flakes%%00009110%%000091%%000090%%00009200%%000091%%0000914%%0000911%%0000925%%0000925%%000091%%0000931.435973,Frosted_Mini-Wheats%%00009100%%000093%%000090%%000090%%000093%%0000914%%000097%%00009100%%0000925%%000092%%0000958.345141,Fruitful_Bran%%00009120%%000093%%000090%%00009240%%000095%%0000914%%0000912%%00009190%%0000925%%000093%%0000941.015492,Fruity_Pebbles%%00009110%%000091%%000091%%00009135%%000090%%0000913%%0000912%%0000925%%0000925%%000092%%0000928.025765,Golden_Crisp%%00009100%%000092%%000090%%0000945%%000090%%0000911%%0000915%%0000940%%0000925%%000091%%0000935.252444,Golden_Grahams%%00009110%%000091%%000091%%00009280%%000090%%0000915%%000099%%0000945%%0000925%%000092%%0000923.804043,Grape-Nuts%%00009110%%000093%%000090%%00009170%%000093%%0000917%%000093%%0000990%%0000925%%000093%%0000953.371007,Grape_Nuts_Flakes%%00009100%%000093%%000091%%00009140%%000093%%0000915%%000095%%0000985%%0000925%%000093%%0000952.076897,Great_Grains_Pecan%%00009120%%000093%%000093%%0000975%%000093%%0000913%%000094%%00009100%%0000925%%000093%%0000945.811716,Honey-comb%%00009110%%000091%%000090%%00009180%%000090%%0000914%%0000911%%0000935%%0000925%%000091%%0000928.742414,Honey_Graham_Ohs%%00009120%%000091%%000092%%00009220%%000091%%0000912%%0000911%%0000945%%0000925%%000092%%0000921.871292,Honey_Nut_Cheerios%%00009110%%000093%%000091%%00009250%%000091.5%%0000911.5%%0000910%%0000990%%0000925%%000091%%0000931.072217,Just_Right_Crunchy__Nuggets%%00009110%%000092%%000091%%00009170%%000091%%0000917%%000096%%0000960%%00009100%%000093%%0000936.523683,Just_Right_Fruit_&amp;_Nut%%00009140%%000093%%000091%%00009170%%000092%%0000920%%000099%%0000995%%00009100%%000093%%0000936.471512,Kix%%00009110%%000092%%000091%%00009260%%000090%%0000921%%000093%%0000940%%0000925%%000092%%0000939.241114,Life%%00009100%%000094%%000092%%00009150%%000092%%0000912%%000096%%0000995%%0000925%%000092%%0000945.328074,Lucky_Charms%%00009110%%000092%%000091%%00009180%%000090%%0000912%%0000912%%0000955%%0000925%%000092%%0000926.734515,Maypo%%00009100%%000094%%000091%%000090%%000090%%0000916%%000093%%0000995%%0000925%%000092%%0000954.850917,Mueslix_Crispy_Blend%%00009160%%000093%%000092%%00009150%%000093%%0000917%%0000913%%00009160%%0000925%%000093%%0000930.313351,Multi-Grain_Cheerios%%00009100%%000092%%000091%%00009220%%000092%%0000915%%000096%%0000990%%0000925%%000091%%0000940.105965,Nut&amp;Honey_Crunch%%00009120%%000092%%000091%%00009190%%000090%%0000915%%000099%%0000940%%0000925%%000092%%0000929.924285,Nutri-Grain_Almond-Raisin%%00009140%%000093%%000092%%00009220%%000093%%0000921%%000097%%00009130%%0000925%%000093%%0000940.69232,Nutri-grain_Wheat%%0000990%%000093%%000090%%00009170%%000093%%0000918%%000092%%0000990%%0000925%%000093%%0000959.642837,Oatmeal_Raisin_Crisp%%00009130%%000093%%000092%%00009170%%000091.5%%0000913.5%%0000910%%00009120%%0000925%%000093%%0000930.450843,Post_Nat._Raisin_Bran%%00009120%%000093%%000091%%00009200%%000096%%0000911%%0000914%%00009260%%0000925%%000093%%0000937.840594,Product_19%%00009100%%000093%%000090%%00009320%%000091%%0000920%%000093%%0000945%%00009100%%000093%%0000941.50354,Puffed_Rice%%0000950%%000091%%000090%%000090%%000090%%0000913%%000090%%0000915%%000090%%000093%%0000960.756112,Puffed_Wheat%%0000950%%000092%%000090%%000090%%000091%%0000910%%000090%%0000950%%000090%%000093%%0000963.005645,Quaker_Oat_Squares%%00009100%%000094%%000091%%00009135%%000092%%0000914%%000096%%00009110%%0000925%%000093%%0000949.511874,Quaker_Oatmeal%%00009100%%000095%%000092%%000090%%000092.7%%00009-1%%00009-1%%00009110%%000090%%000091%%0000950.828392,Raisin_Bran%%00009120%%000093%%000091%%00009210%%000095%%0000914%%0000912%%00009240%%0000925%%000092%%0000939.259197,Raisin_Nut_Bran%%00009100%%000093%%000092%%00009140%%000092.5%%0000910.5%%000098%%00009140%%0000925%%000093%%0000939.7034,Raisin_Squares%%0000990%%000092%%000090%%000090%%000092%%0000915%%000096%%00009110%%0000925%%000093%%0000955.333142,Rice_Chex%%00009110%%000091%%000090%%00009240%%000090%%0000923%%000092%%0000930%%0000925%%000091%%0000941.998933,Rice_Krispies%%00009110%%000092%%000090%%00009290%%000090%%0000922%%000093%%0000935%%0000925%%000091%%0000940.560159,Shredded_Wheat%%0000980%%000092%%000090%%000090%%000093%%0000916%%000090%%0000995%%000090%%000091%%0000968.235885,Shredded_Wheat_nBran%%0000990%%000093%%000090%%000090%%000094%%0000919%%000090%%00009140%%000090%%000091%%0000974.472949,Shredded_Wheat_spoon_size%%0000990%%000093%%000090%%000090%%000093%%0000920%%000090%%00009120%%000090%%000091%%0000972.801787,Smacks%%00009110%%000092%%000091%%0000970%%000091%%000099%%0000915%%0000940%%0000925%%000092%%0000931.230054,Special_K%%00009110%%000096%%000090%%00009230%%000091%%0000916%%000093%%0000955%%0000925%%000091%%0000953.131324,Strawberry_Fruit_Wheats%%0000990%%000092%%000090%%0000915%%000093%%0000915%%000095%%0000990%%0000925%%000092%%0000959.363993,Total_Corn_Flakes%%00009110%%000092%%000091%%00009200%%000090%%0000921%%000093%%0000935%%00009100%%000093%%0000938.839746,Total_Raisin_Bran%%00009140%%000093%%000091%%00009190%%000094%%0000915%%0000914%%00009230%%00009100%%000093%%0000928.592785,Total_Whole_Grain%%00009100%%000093%%000091%%00009200%%000093%%0000916%%000093%%00009110%%00009100%%000093%%0000946.658844,Triples%%00009110%%000092%%000091%%00009250%%000090%%0000921%%000093%%0000960%%0000925%%000093%%0000939.106174,Trix%%00009110%%000091%%000091%%00009140%%000090%%0000913%%0000912%%0000925%%0000925%%000092%%0000927.753301,Wheat_Chex%%00009100%%000093%%000091%%00009230%%000093%%0000917%%000093%%00009115%%0000925%%000091%%0000949.787445,Wheaties%%00009100%%000093%%000091%%00009200%%000093%%0000917%%000093%%00009110%%0000925%%000091%%0000951.592193,Wheaties_Honey_Gold%%00009110%%000092%%000091%%00009200%%000091%%0000916%%000098%%0000960%%0000925%%000091%%0000936.187559"/>
+</config>
+</config>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="Selected column &quot;attribute_0&quot; with default nominal color mapping."/>
+</config>
+<entry key="factory" type="xstring" value="org.knime.base.node.viz.property.color.ColorManager2NodeFactory"/>
+<entry key="node-name" type="xstring" value="Color Manager"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="3.6.0.v201807061308"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="3.6.0.v201807100940"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Color Manager"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 40, Cols: 1"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+<config key="port_2">
+<entry key="index" type="xint" value="2"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.viewproperty.ColorHandlerPortObject"/>
+<entry key="port_object_summary" type="xstring" value="Nominal ColorModel based on column &quot;null&quot;"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_2"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="c8a94be9-30d9-4a91-aed7-be8233891fde"/>
+</config>
+</config>
